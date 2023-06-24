@@ -1,4 +1,6 @@
 # Thirsty Plants
+_Remember to water the plants_
+
 It is an app to help you manage your plants: see if they require water, celebrate little anniversaries, etc.
 
 ## Plants
